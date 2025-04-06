@@ -31,6 +31,7 @@ header{
     align-items: center;
     justify-content: space-between;
     transition: all .50s ease;
+    transition: transform 0.3s ease-in-out; 
 }
 .logo img{
     width: 100%;
